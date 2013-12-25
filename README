@@ -1,0 +1,1 @@
+This is a Graph class which performs various Graph theory algorithms and calculations such as Prim's, Kruskals, Djikstra's, Breadth-First Search, and Depth-First search.  It uses these, as well as other functions we came up with in order to calculate various things about the given graph data.
